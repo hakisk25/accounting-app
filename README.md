@@ -12,6 +12,8 @@ npm start
 - docker build -t accounting-app .
 - docker run -p 3000:80 accounting-app
 
+- Access the app with http://localhost:3000/
+
 ## Features
 - Responsive design
 - Validation for required fields
